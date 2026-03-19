@@ -52,7 +52,7 @@ msg <- "Olá, Mundo"
 escreva("Iniciando...", msg)`
 
 *Em Python fica:*
-`msg = "Olá, Mundo"`
-`print(f"Iniciando... {msg}")`
+```msg = "Olá, Mundo"
+print(f"Iniciando... {msg}")```
 
 
