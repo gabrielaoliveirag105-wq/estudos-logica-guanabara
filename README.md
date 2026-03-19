@@ -33,23 +33,23 @@ O foco aqui é reforçar a lógica de programação. Para cada exercício propos
 
 **O Algoritmo (Visualg):**
 No *Portugol*, declaramos o início e fim do programa para o interpretador:
-`algoritmo
+```algoritmo algoritmo
 algoritmo "OlaMundo"
 inicio
   escreva("Olá, Mundo")
-fimalgoritmo`
+fimalgoritmo```
 
 *Em Python o código é direto:*
-`print("Olá, Mundo)`
+print("Olá, Mundo)
 
 #### 2. Usando Variáveis
 *Aqui aprendi como o computador armazena e guarda dados/valor temporariamente.*
 
 **O Algoritmo (Visualg):**
-`algoritmo
+```algoritmo algoritmo
 var msg: Caractere
 msg <- "Olá, Mundo"
-escreva("Iniciando...", msg)`
+escreva("Iniciando...", msg)```
 
 ---
 
