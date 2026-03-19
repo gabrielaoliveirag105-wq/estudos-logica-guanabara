@@ -37,7 +37,7 @@ No *Portugol*, declaramos o início e fim do programa para o interpretador:
 algoritmo "OlaMundo"
 inicio
   escreva("Olá, Mundo")
-fimalgoritmo```
+fimalgoritmo
 
 *Em Python o código é direto:*
 print("Olá, Mundo)
