@@ -33,7 +33,7 @@ O foco aqui é reforçar a lógica de programação. Para cada exercício propos
 
 **O Algoritmo (Visualg):**
 No *Portugol*, declaramos o início e fim do programa para o interpretador:
-algoritmo
+```algoritmo
 algoritmo "OlaMundo"
 inicio
   escreva("Olá, Mundo")
