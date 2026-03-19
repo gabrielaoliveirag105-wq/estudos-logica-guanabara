@@ -51,8 +51,8 @@ var msg: Caractere
 msg <- "Olá, Mundo"
 escreva("Iniciando...", msg)`
 
-*Em Python fica:
-`msg = "Olá, Mundo"
-print(f"Iniciando... {msg}")`
+*Em Python fica:*
+`msg = "Olá, Mundo"`
+`print(f"Iniciando... {msg}")`
 
 
