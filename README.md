@@ -38,9 +38,11 @@ algoritmo "OlaMundo"
 inicio
   escreva("Olá, Mundo")
 fimalgoritmo
+```
 
 *Em Python o código é direto:*
-print("Olá, Mundo)
+```print("Olá, Mundo)
+```
 
 #### 2. Usando Variáveis
 *Aqui aprendi como o computador armazena e guarda dados/valor temporariamente.*
@@ -50,7 +52,7 @@ print("Olá, Mundo)
 var msg: Caractere
 msg <- "Olá, Mundo"
 escreva("Iniciando...", msg)
-
+```
 ---
 
 *Em Python fica:*
