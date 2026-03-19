@@ -46,7 +46,7 @@ print("Olá, Mundo)
 *Aqui aprendi como o computador armazena e guarda dados/valor temporariamente.*
 
 **O Algoritmo (Visualg):**
-` ```algoritmo `
+```algoritmo 
 var msg: Caractere
 msg <- "Olá, Mundo"
 escreva("Iniciando...", msg)
@@ -54,6 +54,7 @@ escreva("Iniciando...", msg)
 ---
 
 *Em Python fica:*
+
 msg = "Olá, Mundo"
 print(f"Iniciando... {msg}")
 
