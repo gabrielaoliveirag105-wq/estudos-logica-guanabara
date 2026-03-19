@@ -21,3 +21,25 @@ O foco aqui é reforçar a lógica de programação. Para cada exercício propos
 
 ---
 *Estudando e evoluindo um `commit` por vez!* 👨‍💻
+
+---
+
+##  📝 Detalhamento dos Exercícios 
+
+### 📍 Módulo 01: Primeiros Passos/Entrada-Saída
+
+#### 1. Exercício: Olá Mundo
+*O ponto de partida.*
+
+**O Algoritmo (Visualg):**
+No *Portugol*, declaramos o início e fim do programa para o interpretador:
+```algoritmo
+algoritmo "OlaMundo"
+inicio
+  escreva("Olá, Mundo")
+fimalgoritmo```
+
+*Em Python o código é direto:*
+print("Olá, Mundo!")
+
+
