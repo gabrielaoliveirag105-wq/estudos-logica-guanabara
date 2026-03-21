@@ -29,8 +29,10 @@ O foco aqui é reforçar a lógica de programação. Para cada exercício propos
 **-> Algoritmos computacionais:** Sequência de passos a serem seguidos por um módulo processador que sendo seguidos corretamente, realizam determinada tarefa.
 
 *- Módulo processador:* Tudo que é programavel.
+
 *- Usuário:* Você mesmo, aquele que vai usar o seu projeto.
-*- Realizar/Tarefa:*Resolver algum problema/necessidade do usuário
+
+*- Realizar/Tarefa:* Resolver algum problema/necessidade do usuário
 
 **-> Passo para Algoritmos computacionais:**
 - 1°. Lógica de programação: Organizar passo a passo a lógica do "problema".
