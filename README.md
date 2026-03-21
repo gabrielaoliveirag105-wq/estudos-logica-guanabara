@@ -24,6 +24,21 @@ O foco aqui é reforçar a lógica de programação. Para cada exercício propos
 
 ---
 
+# 🧠 Algoritmo
+
+**-> Algoritmos computacionais:** Sequência de passos a serem seguidos por um módulo processador que sendo seguidos corretamente, realizam determinada tarefa.
+
+*- Módulo processador:* Tudo que é programavel.
+*- Usuário:* Você mesmo, aquele que vai usar o seu projeto.
+*- Realizar/Tarefa:*Resolver algum problema/necessidade do usuário
+
+**-> Passo para Algoritmos computacionais:**
+- 1°. Lógica de programação: Organizar passo a passo a lógica do "problema".
+- 2°. Linguagem de programação: É sua lógica só que escrita em alguma linguagem de programação (Python, Java, Go, C++).
+- 3°. Sistema completo: Seu projeto já rodando.
+
+---
+
 ##  📝 Detalhamento dos Exercícios 
 
 ### 📍 Módulo 01: Primeiros Passos/Entrada-Saída
