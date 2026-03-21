@@ -26,18 +26,20 @@ O foco aqui é reforçar a lógica de programação. Para cada exercício propos
 
 # 🧠 Algoritmo
 
-**-> Algoritmos computacionais:** Sequência de passos a serem seguidos por um módulo processador que sendo seguidos corretamente, realizam determinada tarefa.
+**-> Algoritmos computacionais:** Sequência de passos a serem seguidos por um módulo processador que sendo seguidos corretamente, realizam determinada tarefa para o usuário.
 
-*- Módulo processador:* Tudo que é programavel.
+## 🔍 Conceitos Chave:
+*- Módulo processador:* Tudo que é programavel (Celulares, computador, micro-ondas.
 
-*- Usuário:* Você mesmo, aquele que vai usar o seu projeto.
+*- Usuário:* A pessoa que utilizará o sistema para resolver uma necessidade.  
 
-*- Realizar/Tarefa:* Resolver algum problema/necessidade do usuário
+*- Realizar/Tarefa:* A resolução de um problema real do cotidiano através do código.
 
-**-> Passo para Algoritmos computacionais:**
-- 1°. Lógica de programação: Organizar passo a passo a lógica do "problema".
-- 2°. Linguagem de programação: É sua lógica só que escrita em alguma linguagem de programação (Python, Java, Go, C++).
-- 3°. Sistema completo: Seu projeto já rodando.
+### 🛠️ O Caminho da Criação:
+*-> Passo para Algoritmos computacionais*
+1°. **Lógica de programação:** Organizar o passo a passo mental da solução.
+2°. **Linguagem de Programação:** Traduzir a lógica para um código (Python, Java, Go).
+3°. **Sistema completo:** O projeto finalizado e funcional entregue ao usuário.
 
 ---
 
