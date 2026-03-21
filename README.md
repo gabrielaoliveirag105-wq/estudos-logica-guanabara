@@ -83,5 +83,39 @@ escreva("Iniciando...", msg)
 msg = "Olá, Mundo"
 print(f"Iniciando... {msg}")
 ```
+---
+## ⌨️ Entrada de Dados e Operadores
+### 1. Interação com o Usuário
+No **Algoritmo**, usamos o `Leia`.
+No **Python**, usamos o `input`.
+
+* *O que acontece no sistema?* Pense no input como o momento em que você "conversa" com a máquina ou insere ingredientes para ela trabalhar.
+
+**Exemplo em Algoritmo:**
+```
+algoritmo "somar"
+Var
+  n1:Inteiro
+   n2:Inteiro
+   soma:Inteiro
+Inicio
+    escreva("Primeiro valor: ")
+    leia(n1) - *usuário interage*
+    escreva("Segundo valor: ")
+    leia(n2)
+    soma <- n1+n2
+    escreval("A soma entre ", n1, " e ", n2, " vale: ",soma)
+Fimalgoritmo
+```
+**Exemplo em Python:**
+```
+n1 = int(input('Primeiro valor: '))
+n2 = int(input('Segundo valor: '))
+media = (n1 + n2) / 2
+print(f'A média entre {n1} e {n2} vale: {media}')
+```
+
+
+
 
 
