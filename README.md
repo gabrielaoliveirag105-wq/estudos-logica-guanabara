@@ -91,7 +91,7 @@ No **Python**, usamos o `input`.
 
 * *O que acontece no sistema?* Pense no input como o momento em que você "conversa" com a máquina ou insere ingredientes para ela trabalhar.
 
-**Exemplo em Algoritmo:**
+*Exemplo em Algoritmo:*
 ```
 algoritmo "somar"
 Var
@@ -107,7 +107,7 @@ Inicio
     escreval("A soma entre ", n1, " e ", n2, " vale: ",soma)
 Fimalgoritmo
 ```
-**Exemplo em Python:**
+*Exemplo em Python:*
 ```
 n1 = int(input('Primeiro valor: '))
 n2 = int(input('Segundo valor: '))
