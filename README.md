@@ -76,7 +76,8 @@ escreva("Iniciando...", msg)
 
 *Em Python fica:*
 
-msg = "Olá, Mundo"
+```msg = "Olá, Mundo"
 print(f"Iniciando... {msg}")
+```
 
 
