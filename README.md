@@ -35,7 +35,7 @@ O foco aqui é reforçar a lógica de programação. Para cada exercício propos
 
 *- Realizar/Tarefa:* A resolução de um problema real do cotidiano através do código.
 
-### 🛠️ O Caminho da Criação:
+## 🛠️ O Caminho da Criação:
 *-> Passo para Algoritmos computacionais*
 1°. **Lógica de programação:** Organizar o passo a passo mental da solução.
 2°. **Linguagem de Programação:** Traduzir a lógica para um código (Python, Java, Go).
