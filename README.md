@@ -37,8 +37,11 @@ O foco aqui é reforçar a lógica de programação. Para cada exercício propos
 
 ## 🛠️ O Caminho da Criação:
 *-> Passo para Algoritmos computacionais*
+
 1°. **Lógica de programação:** Organizar o passo a passo mental da solução.
+
 2°. **Linguagem de Programação:** Traduzir a lógica para um código (Python, Java, Go).
+
 3°. **Sistema completo:** O projeto finalizado e funcional entregue ao usuário.
 
 ---
