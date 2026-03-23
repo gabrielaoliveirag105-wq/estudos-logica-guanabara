@@ -90,7 +90,7 @@ print(f"Iniciando... {msg}")
 ## ⌨️ Entrada de Dados e Operadores
 ### 1. Interação com o Usuário
 No **Algoritmo**, usamos o `Leia`.
-No **Python**, usamos o `input`.
+Em **Python**, usamos o `input`.
 
 * *O que acontece no sistema?* Pense no input como o momento em que você "conversa" com a máquina ou insere ingredientes para ela trabalhar.
 
