@@ -117,7 +117,38 @@ n2 = int(input('Segundo valor: '))
 media = (n1 + n2) / 2
 print(f'A média entre {n1} e {n2} vale: {media}')
 ```
+---
+## ⚖️ Operadores Relacionais e Lógicos
+*Como o processador toma decisões baseadas em comparações.*
 
+### 1. Operadores Relacionais (Comparações)
+O resultado de um uma relação é sempre um vaalor **Booleano** (`True`) ou (`False`).
+
+| Comparação | No Visualg | No Python |
+| :--- | :---: | :---: |
+| Maior / Menor | `>` e `<` | `>` e `<` |
+| Maior ou Igual | `>=` | `>=` |
+| Menor ou Igual | `<=` | `<=` |
+| **Igual a** | `=` | `==` |
+| **Diferente de** | `<>` | `!=` |
+
+>  **ATENÇÃO: ** No Python, usamos `==` para comparar e `!=` para diferente. O `=` sozinho é para **atribuição** (guardar valor).
+
+### 2. Operadores Lógicos (Conectivos)
+Usador para unir várias comparações em uma única setença.
+
+* **E (`and`):** Resulta em `True` apenas se **TODAS** as condições forem verdadeiras.
+
+* **OU (`or`):** Resulta em `True` se **PELO MENOS UMA** condição for verdadeira.
+
+* **NÂO (`not`):** Inverte o valor (o que é `True` vira `False`).
+
+### 🛠️ A Grande Ordem de Precedência (Final)
+Quando uma linha de código tem de tudo, o processador resolve nesta ordem:
+1.  **Aritméticos:** `()`, `**`, `* /`, `+ -`
+2.  **Relacionais:** `>`, `<`, `==`, `!=`, etc.
+3.  **Lógicos:** `NOT`, `AND`, `OR` (nesta ordem específica).
+---
 
 
 
